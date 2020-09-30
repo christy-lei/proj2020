@@ -1,0 +1,433 @@
+Sentence,Itemnum,Item,Group,Condition,Antecedent,Gender,Description,Question,CompYN,CompR,Filler
+The busy waiter covered himself with soup.,1,waiter,A,Match,Definitional,Male,Definitional Match,,,,
+The careless husband found himself without a job.,2,husband,A,Match,Definitional,Male,Definitional Match,Did the husband have a job?,Y,J,
+The vain prince looked at herself in the mirror.,3,prince,A,Mismatch,Definitional,Male,Definitional Mismatch,,,,
+The insecure son bought themselves new clothes.,4,son,A,Non-binary,Definitional,Male,Definitional They,,,,
+The desperate boyfriend told herself to forgive the girl.,5,boyfriend,A,Mismatch,Definitional,Male,Definitional Mismatch,Did the boyfriend want to forgive the girl?,Y,F,
+The nervous groom checked themselves in the mirror.,6,groom,A,Non-binary,Definitional,Male,Definitional They,,,,
+The lovestruck boy kissed himself on the arm for practice.,7,boy,A,Match,Definitional,Male,Definitional Match,Was the boy in love?,Y,F,
+The stubborn nephew found himself written out of the will.,8,nephew,A,Match,Definitional,Male,Definitional Match,,,,
+The devout priest crossed herself at the alter.,9,priest,A,Mismatch,Definitional,Male,Definitional Mismatch,,,,
+The brave fireman pulled themselves from the flames.,10,fireman,A,Non-binary,Definitional,Male,Definitional They,,,,
+The loyal butler prepared herself for a controversy.,11,butler,A,Mismatch,Definitional,Male,Definitional Mismatch,,,,
+The lonely bachelor made themselves a cup of tea.,12,bachelor,A,Non-binary,Definitional,Male,Definitional They,,,,
+The grateful niece asked herself how she could repay her aunt.,13,niece,A,Match,Definitional,Female,Definitional Match,,,,
+The nervous actress prepared herself to face the crowd.,14,actress,A,Match,Definitional,Female,Definitional Match,,,,
+The famous ballerina prepared himself for the performance.,15,ballerina,A,Mismatch,Definitional,Female,Definitional Mismatch,,,,
+The foreign nanny taught themselves to speak English.,16,nanny,A,Non-binary,Definitional,Female,Definitional They,Was the nanny a native English speaker?,Y,J,
+The homeless widow built himself a shelter.,17,widow,A,Mismatch,Definitional,Female,Definitional Mismatch,,,,
+The jealous girlfriend told themselves not to worry.,18,girlfriend,A,Non-binary,Definitional,Female,Definitional They,,,,
+The industrious daughter put herself through school.,19,daughter,A,Match,Definitional,Female,Definitional Match,,,,
+The wealthy queen built herself a castle.,20,queen,A,Match,Definitional,Female,Definitional Match,,,,
+The shy choirgirl forced himself to sing the part.,21,choirgirl,A,Mismatch,Definitional,Female,Definitional Mismatch,,,,
+The calm bride prepared themselves for the wedding.,22,bride,A,Non-binary,Definitional,Female,Definitional They,Was the bride nervous about the wedding?,Y,J,
+The gracious hostess introduced himself to the guests.,23,hostess,A,Mismatch,Definitional,Female,Definitional Mismatch,,,,
+The neglected wife bought themselves an anniversary present.,24,wife,A,Non-binary,Definitional,Female,Definitional They,Did the wife feel neglected?,Y,F,
+The hungry chef cooked dinner for himself after work.,25,chef,A,Match,Stereotypical,Male,Stereotypical Match,,,,
+The experienced pilot prepared himself for the emergency landing.,26,pilot,A,Match,Stereotypical,Male,Stereotypical Match,,,,
+The famous drummer pictured herself as a singer.,27,drummer,A,Mismatch,Stereotypical,Male,Stereotypical Mismatch,,,,
+The electrician shocked themselves while he worked.,28,electrician,A,Non-binary,Stereotypical,Male,Stereotypical They,,,,
+The daring explorer found herself in uncharted territory.,29,explorer,A,Mismatch,Stereotypical,Male,Stereotypical Mismatch,,,,
+The cautious jailer armed themselves with a gun.,30,jailer,A,Non-binary,Stereotypical,Male,Stereotypical They,Was the jailer armed?,Y,F,
+A good magician knows how to free himself from a safe.,31,magician,A,Match,Stereotypical,Male,Stereotypical Match,,,,
+The dirty soldier cleaned himself at the lake.,32,soldier,A,Match,Stereotypical,Male,Stereotypical Match,,,,
+The clumsy clown tripped over herself during the performance.,33,clown,A,Mismatch,Stereotypical,Male,Stereotypical Mismatch,,,,
+The successful hunter cleaned themselves after walking through the woods.,34,hunter,A,Non-binary,Stereotypical,Male,Stereotypical They,,,,
+The young police officer trained herself to stay calm.,35,police officer,A,Mismatch,Stereotypical,Male,Stereotypical Mismatch,Was the police officer old?,Y,J,
+The weary trucker allowed themselves a one-hour nap.,36,trucker,A,Non-binary,Stereotypical,Male,Stereotypical They,Did the trucker sleep?,Y,F,
+The housekeeper poured herself a cup of coffee.,37,housekeeper,A,Match,Stereotypical,Female,Stereotypical Match,Did the housekeeper make coffee?,Y,F,
+The weary hairdresser lit herself a cigarette.,38,hairdresser,A,Match,Stereotypical,Female,Stereotypical Match,Was the hairdresser tired?,Y,F,
+The ambitious gymnast pushed himself to exhaustion.,39,gymnast,A,Mismatch,Stereotypical,Female,Stereotypical Mismatch,,,,
+The stripper made time for themselves after the show. ,40,stripper,A,Non-binary,Stereotypical,Female,Stereotypical They,,,,
+The feminist made himself heard at the meeting.,41,feminist,A,Mismatch,Stereotypical,Female,Stereotypical Mismatch,,,,
+The caregiver fixed dinner for themselves and the children.,42,caregiver,A,Non-binary,Stereotypical,Female,Stereotypical They,Did the caregiver make lunch?,Y,J,
+The flight attendant pushed herself off the rescue slide.,43,flight attendant,A,Match,Stereotypical,Female,Stereotypical Match,,,,
+The adventurous nurse put herself on the list of volunteers.,44,nurse,A,Match,Stereotypical,Female,Stereotypical Match,,,,
+The secretary bought himself a plane ticket.,45,secretary,A,Mismatch,Stereotypical,Female,Stereotypical Mismatch,,,,
+The friendly receptionist found themselves the center of attention.,46,receptionist,A,Non-binary,Stereotypical,Female,Stereotypical They,,,,
+The popular babysitter found himself overcommitted on Fridays.,47,babysitter,A,Mismatch,Stereotypical,Female,Stereotypical Mismatch,,,,
+The socialite surrounded themselves with friends.,48,socialite,A,Non-binary,Stereotypical,Female,Stereotypical They,,,,
+Brian's ability to laugh at himself is remarkable.,49,Brian,A,Match,Name,Male,Name Match,,,,
+Daniel was mad at himself for messing up so badly.,50,Daniel,A,Match,Name,Male,Name Match,Was Daniel angry?,Y,F,
+Robert cursed herself for forgetting the swimming goggles.,51,Robert,A,Mismatch,Name,Male,Name Mismatch,Was Robert forgetful?,Y,F,
+George prided themselves on delivering good quality work.,52,George,A,Non-binary,Name,Male,Name They,,,,
+Matthew took a long time to regain herself after the injury.,53,Matthew,A,Mismatch,Name,Male,Name Mismatch,,,,
+John would like to treat themselves to some sushi.,54,John,A,Non-binary,Name,Male,Name They,,,,
+William decided to entertain himself on facebook.,55,William,A,Match,Name,Male,Name Match,,,,
+Edward blamed himself for the tragedy.,56,Edward,A,Match,Name,Male,Name Match,,,,
+Kenneth dried herself after coming out of the pool.,57,Kenneth,A,Mismatch,Name,Male,Name Mismatch,,,,
+Mark found themselves through meditation.,58,Mark,A,Non-binary,Name,Male,Name They,,,,
+Thomas smiled to herself upon hearing that song.,59,Thomas,A,Mismatch,Name,Male,Name Mismatch,Did Thomas hate the song?,Y,J,
+Charles dismissed themselves from the group activity..,60,Charles,A,Non-binary,Name,Male,Name They,,,,
+Lisa is not very good at allowing herself to make mistakes.,61,Lisa,A,Match,Name,Female,Name Match,Did Lisa tolerate mistake?,Y,J,
+Nancy gifted herself a new laptop for Christmas.,62,Nancy,A,Match,Name,Female,Name Match,Did Nancy buy a new phone?,Y,J,
+Carol used to sing herself to sleep.,63,Carol,A,Mismatch,Name,Female,Name Mismatch,,,,
+Elizabeth flung herself into a chair.,64,Elizabeth,A,Non-binary,Name,Female,Name They,,,,
+Mary worked himself to death for a promotion.,65,Mary,A,Mismatch,Name,Female,Name Mismatch,Was Mary a lazy worker?,Y,J,
+Betty really hated themselves for giving in.,66,Betty,A,Non-binary,Name,Female,Name They,,,,
+Kimberly devoted herself to helping others.,67,Kimberly,A,Match,Name,Female,Name Match,,,,
+Jennifer forced herself to stay awake.,68,Jennifer,A,Match,Name,Female,Name Match,,,,
+Dorothy introduced himself to the new students.,69,Dorothy,A,Mismatch,Name,Female,Name Mismatch,,,,
+Linda did not give themselves enough credit.,70,Linda,A,Non-binary,Name,Female,Name They,,,,
+Karen laughed himself silly at the jokes.,71,Karen,A,Mismatch,Name,Female,Name Mismatch,,,,
+Ruth's ability to keep themselves going is inspiring.,72,Ruth,A,Non-binary,Name,Female,Name They,,,,
+The busy waiter covered herself with soup.,1,waiter,B,Mismatch,Definitional,Male,Definitional Mismatch,,,,
+The careless husband found themselves without a job.,2,husband,B,Non-binary,Definitional,Male,Definitional They,Did the husband have a job?,Y,J,
+The vain prince looked at himself in the mirror.,3,prince,B,Match,Definitional,Male,Definitional Match,,,,
+The insecure son bought himself new clothes.,4,son,B,Match,Definitional,Male,Definitional Match,,,,
+The desperate boyfriend told themselves to forgive the girl.,5,boyfriend,B,Non-binary,Definitional,Male,Definitional They,Did the boyfriend want to forgive the girl?,Y,F,
+The nervous groom checked herself in the mirror.,6,groom,B,Mismatch,Definitional,Male,Definitional Mismatch,,,,
+The lovestruck boy kissed herself on the arm for practice.,7,boy,B,Mismatch,Definitional,Male,Definitional Mismatch,Was the boy in love?,Y,F,
+The stubborn nephew found themselves written out of the will.,8,nephew,B,Non-binary,Definitional,Male,Definitional They,,,,
+The devout priest crossed himself at the alter.,9,priest,B,Match,Definitional,Male,Definitional Match,,,,
+The brave fireman pulled himself from the flames.,10,fireman,B,Match,Definitional,Male,Definitional Match,,,,
+The loyal butler prepared themselves for a controversy.,11,butler,B,Non-binary,Definitional,Male,Definitional They,,,,
+The lonely bachelor made herself a cup of tea.,12,bachelor,B,Mismatch,Definitional,Male,Definitional Mismatch,,,,
+The grateful niece asked himself how she could repay her aunt.,13,niece,B,Mismatch,Definitional,Female,Definitional Mismatch,,,,
+The nervous actress prepared themselves to face the crowd.,14,actress,B,Non-binary,Definitional,Female,Definitional They,,,,
+The famous ballerina prepared herself for the performance.,15,ballerina,B,Match,Definitional,Female,Definitional Match,,,,
+The foreign nanny taught herself to speak English.,16,nanny,B,Match,Definitional,Female,Definitional Match,Was the nanny a native English speaker?,Y,J,
+The homeless widow built themselves a shelter.,17,widow,B,Non-binary,Definitional,Female,Definitional They,,,,
+The jealous girlfriend told himself not to worry.,18,girlfriend,B,Mismatch,Definitional,Female,Definitional Mismatch,,,,
+The industrious daughter put himself through school.,19,daughter,B,Mismatch,Definitional,Female,Definitional Mismatch,,,,
+The wealthy queen built themselves a castle.,20,queen,B,Non-binary,Definitional,Female,Definitional They,,,,
+The shy choirgirl forced herself to sing the part.,21,choirgirl,B,Match,Definitional,Female,Definitional Match,,,,
+The calm bride prepared herself for the wedding.,22,bride,B,Match,Definitional,Female,Definitional Match,Was the bride nervous about the wedding?,Y,J,
+The gracious hostess introduced themselves to the guests.,23,hostess,B,Non-binary,Definitional,Female,Definitional They,,,,
+The neglected wife bought himself an anniversary present.,24,wife,B,Mismatch,Definitional,Female,Definitional Mismatch,Did the wife feel neglected?,Y,F,
+The hungry chef cooked dinner for herself after work.,25,chef,B,Mismatch,Stereotypical,Male,Stereotypical Mismatch,,,,
+The experienced pilot prepared themselves for the emergency landing.,26,pilot,B,Non-binary,Stereotypical,Male,Stereotypical They,,,,
+The famous drummer pictured himself as a singer.,27,drummer,B,Match,Stereotypical,Male,Stereotypical Match,,,,
+The electrician shocked himself while he worked.,28,electrician,B,Match,Stereotypical,Male,Stereotypical Match,,,,
+The daring explorer found themselves in uncharted territory.,29,explorer,B,Non-binary,Stereotypical,Male,Stereotypical They,,,,
+The cautious jailer armed herself with a gun.,30,jailer,B,Mismatch,Stereotypical,Male,Stereotypical Mismatch,Was the jailer armed?,Y,F,
+A good magician knows how to free herself from a safe.,31,magician,B,Mismatch,Stereotypical,Male,Stereotypical Mismatch,,,,
+The dirty soldier cleaned themselves at the lake.,32,soldier,B,Non-binary,Stereotypical,Male,Stereotypical They,,,,
+The clumsy clown tripped over himself during the performance.,33,clown,B,Match,Stereotypical,Male,Stereotypical Match,,,,
+The successful hunter cleaned himself after walking through the woods.,34,hunter,B,Match,Stereotypical,Male,Stereotypical Match,,,,
+The young police officer trained themselves to stay calm.,35,police officer,B,Non-binary,Stereotypical,Male,Stereotypical They,Was the police officer old?,Y,J,
+The weary trucker allowed herself a one-hour nap.,36,trucker,B,Mismatch,Stereotypical,Male,Stereotypical Mismatch,Did the trucker sleep?,Y,F,
+The housekeeper poured himself a cup of coffee.,37,housekeeper,B,Mismatch,Stereotypical,Female,Stereotypical Mismatch,Did the housekeeper make coffee?,Y,F,
+The weary hairdresser lit themselves a cigarette.,38,hairdresser,B,Non-binary,Stereotypical,Female,Stereotypical They,Was the hairdresser tired?,Y,F,
+The ambitious gymnast pushed herself to exhaustion.,39,gymnast,B,Match,Stereotypical,Female,Stereotypical Match,,,,
+The stripper made time for herself after the show. ,40,stripper,B,Match,Stereotypical,Female,Stereotypical Match,,,,
+The feminist made themselves heard at the meeting.,41,feminist,B,Non-binary,Stereotypical,Female,Stereotypical They,,,,
+The caregiver fixed dinner for himself and the children.,42,caregiver,B,Mismatch,Stereotypical,Female,Stereotypical Mismatch,Did the caregiver make lunch?,Y,J,
+The flight attendant pushed herself off the rescue slide.,43,flight attendant,B,Mismatch,Stereotypical,Female,Stereotypical Mismatch,,,,
+The adventurous nurse put themselves on the list of volunteers.,44,nurse,B,Non-binary,Stereotypical,Female,Stereotypical They,,,,
+The secretary bought herself a plane ticket.,45,secretary,B,Match,Stereotypical,Female,Stereotypical Match,,,,
+The friendly receptionist found herself the center of attention.,46,receptionist,B,Match,Stereotypical,Female,Stereotypical Match,,,,
+The popular babysitter found themselves overcommitted on Fridays.,47,babysitter,B,Non-binary,Stereotypical,Female,Stereotypical They,,,,
+The socialite surrounded himself with friends.,48,socialite,B,Mismatch,Stereotypical,Female,Stereotypical Mismatch,,,,
+Brian's ability to laugh at herself is remarkable.,49,Brian,B,Mismatch,Name,Male,Name Mismatch,,,,
+Daniel was mad at themselves for messing up so badly.,50,Daniel,B,Non-binary,Name,Male,Name They,Was Daniel angry?,Y,F,
+Robert cursed himself for forgetting the swimming goggles.,51,Robert,B,Match,Name,Male,Name Match,Was Robert forgetful?,Y,F,
+George prided himself on delivering good quality work.,52,George,B,Match,Name,Male,Name Match,,,,
+Matthew took a long time to regain themselves after the injury.,53,Matthew,B,Non-binary,Name,Male,Name They,,,,
+John would like to treat herself to some sushi.,54,John,B,Mismatch,Name,Male,Name Mismatch,,,,
+William decided to entertain herself on facebook.,55,William,B,Mismatch,Name,Male,Name Mismatch,,,,
+Edward blamed themselves for the tragedy.,56,Edward,B,Non-binary,Name,Male,Name They,,,,
+Kenneth dried himself after coming out of the pool.,57,Kenneth,B,Match,Name,Male,Name Match,,,,
+Mark found himself through meditation.,58,Mark,B,Match,Name,Male,Name Match,,,,
+Thomas smiled to themselves upon hearing that song.,59,Thomas,B,Non-binary,Name,Male,Name They,Did Thomas hate the song?,Y,J,
+Charles dismissed herself from the group activity.,60,Charles,B,Mismatch,Name,Male,Name Mismatch,,,,
+Lisa is not very good at allowing himself to make mistakes.,61,Lisa,B,Mismatch,Name,Female,Name Mismatch,Did Lisa tolerate mistake?,Y,J,
+Nancy gifted themselves a new laptop for Christmas.,62,Nancy,B,Non-binary,Name,Female,Name They,Did Nancy buy a new phone?,Y,J,
+Carol used to sing herself to sleep.,63,Carol,B,Match,Name,Female,Name Match,,,,
+Elizabeth flung herself into a chair.,64,Elizabeth,B,Match,Name,Female,Name Match,,,,
+Mary worked themselves to death for a promotion.,65,Mary,B,Non-binary,Name,Female,Name They,Was Mary a lazy worker?,Y,J,
+Betty really hated himself for giving in.,66,Betty,B,Mismatch,Name,Female,Name Mismatch,,,,
+Kimberly devoted himself to helping others.,67,Kimberly,B,Mismatch,Name,Female,Name Mismatch,,,,
+Jennifer forced themselves to stay awake.,68,Jennifer,B,Non-binary,Name,Female,Name They,,,,
+Dorothy introduced herself to the new students.,69,Dorothy,B,Match,Name,Female,Name Match,,,,
+Linda did not give herself enough credit.,70,Linda,B,Match,Name,Female,Name Match,,,,
+Karen laughed themselves silly at the jokes.,71,Karen,B,Non-binary,Name,Female,Name They,,,,
+Ruth's ability to keep himself going is inspiring.,72,Ruth,B,Mismatch,Name,Female,Name Mismatch,,,,
+The busy waiter covered themselves with soup.,1,waiter,C,Non-binary,Definitional,Male,Definitional They,,,,
+The careless husband found herself without a job.,2,husband,C,Mismatch,Definitional,Male,Definitional Mismatch,Did the husband have a job?,Y,J,
+The vain prince looked at themselves in the mirror.,3,prince,C,Non-binary,Definitional,Male,Definitional They,,,,
+The insecure son bought herself new clothes.,4,son,C,Mismatch,Definitional,Male,Definitional Mismatch,,,,
+The desperate boyfriend told himself to forgive the girl.,5,boyfriend,C,Match,Definitional,Male,Definitional Match,Did the boyfriend want to forgive the girl?,Y,F,
+The nervous groom checked himself in the mirror.,6,groom,C,Match,Definitional,Male,Definitional Match,,,,
+The lovestruck boy kissed themselves on the arm for practice.,7,boy,C,Non-binary,Definitional,Male,Definitional They,Was the boy in love?,Y,F,
+The stubborn nephew found herself written out of the will.,8,nephew,C,Mismatch,Definitional,Male,Definitional Mismatch,,,,
+The devout priest crossed themselves at the alter.,9,priest,C,Non-binary,Definitional,Male,Definitional They,,,,
+The brave fireman pulled herself from the flames.,10,fireman,C,Mismatch,Definitional,Male,Definitional Mismatch,,,,
+The loyal butler prepared himself for a controversy.,11,butler,C,Match,Definitional,Male,Definitional Match,,,,
+The lonely bachelor made himself a cup of tea.,12,bachelor,C,Match,Definitional,Male,Definitional Match,,,,
+The grateful niece asked themselves how she could repay her aunt.,13,niece,C,Non-binary,Definitional,Female,Definitional They,,,,
+The nervous actress prepared himself to face the crowd.,14,actress,C,Mismatch,Definitional,Female,Definitional Mismatch,,,,
+The famous ballerina prepared themselves for the performance.,15,ballerina,C,Non-binary,Definitional,Female,Definitional They,,,,
+The foreign nanny taught himself to speak English.,16,nanny,C,Mismatch,Definitional,Female,Definitional Mismatch,Was the nanny a native English speaker?,Y,J,
+The homeless widow built herself a shelter.,17,widow,C,Match,Definitional,Female,Definitional Match,,,,
+The jealous girlfriend told herself not to worry.,18,girlfriend,C,Match,Definitional,Female,Definitional Match,,,,
+The industrious daughter put themselves through school.,19,daughter,C,Non-binary,Definitional,Female,Definitional They,,,,
+The wealthy queen built himself a castle.,20,queen,C,Mismatch,Definitional,Female,Definitional Mismatch,,,,
+The shy choirgirl forced themselves to sing the part.,21,choirgirl,C,Non-binary,Definitional,Female,Definitional They,,,,
+The calm bride prepared himself for the wedding.,22,bride,C,Mismatch,Definitional,Female,Definitional Mismatch,Was the bride nervous about the wedding?,Y,J,
+The gracious hostess introduced herself to the guests.,23,hostess,C,Match,Definitional,Female,Definitional Match,,,,
+The neglected wife bought herself an anniversary present.,24,wife,C,Match,Definitional,Female,Definitional Match,Did the wife feel neglected?,Y,F,
+The hungry chef cooked dinner for themselves after work.,25,chef,C,Non-binary,Stereotypical,Male,Stereotypical They,,,,
+The experienced pilot prepared herself for the emergency landing.,26,pilot,C,Mismatch,Stereotypical,Male,Stereotypical Mismatch,,,,
+The famous drummer pictured themselves as a singer.,27,drummer,C,Non-binary,Stereotypical,Male,Stereotypical They,,,,
+The electrician shocked herself while he worked.,28,electrician,C,Mismatch,Stereotypical,Male,Stereotypical Mismatch,,,,
+The daring explorer found himself in uncharted territory.,29,explorer,C,Match,Stereotypical,Male,Stereotypical Match,,,,
+The cautious jailer armed himself with a gun.,30,jailer,C,Match,Stereotypical,Male,Stereotypical Match,Was the jailer armed?,Y,F,
+A good magician knows how to free themselves from a safe.,31,magician,C,Non-binary,Stereotypical,Male,Stereotypical They,,,,
+The dirty soldier cleaned herself at the lake.,32,soldier,C,Mismatch,Stereotypical,Male,Stereotypical Mismatch,,,,
+The clumsy clown tripped over themselves during the performance.,33,clown,C,Non-binary,Stereotypical,Male,Stereotypical They,,,,
+The successful hunter cleaned herself after walking through the woods.,34,hunter,C,Mismatch,Stereotypical,Male,Stereotypical Mismatch,,,,
+The young police officer trained himself to stay calm.,35,police officer,C,Match,Stereotypical,Male,Stereotypical Match,Was the police officer old?,Y,J,
+The weary trucker allowed himself a one-hour nap.,36,trucker,C,Match,Stereotypical,Male,Stereotypical Match,Did the trucker sleep?,Y,F,
+The housekeeper poured themselves a cup of coffee.,37,housekeeper,C,Non-binary,Stereotypical,Female,Stereotypical They,Did the housekeeper make coffee?,Y,F,
+The weary hairdresser lit himself a cigarette.,38,hairdresser,C,Mismatch,Stereotypical,Female,Stereotypical Mismatch,Was the hairdresser tired?,Y,F,
+The ambitious gymnast pushed themselves to exhaustion.,39,gymnast,C,Non-binary,Stereotypical,Female,Stereotypical They,,,,
+The stripper made time for himself after the show. ,40,stripper,C,Mismatch,Stereotypical,Female,Stereotypical Mismatch,,,,
+The feminist made herself heard at the meeting.,41,feminist,C,Match,Stereotypical,Female,Stereotypical Match,,,,
+The caregiver fixed dinner for herself and the children.,42,caregiver,C,Match,Stereotypical,Female,Stereotypical Match,Did the caregiver make lunch?,Y,J,
+The flight attendant pushed herself off the rescue slide.,43,flight attendant,C,Non-binary,Stereotypical,Female,Stereotypical They,,,,
+The adventurous nurse put himself on the list of volunteers.,44,nurse,C,Mismatch,Stereotypical,Female,Stereotypical Mismatch,,,,
+The secretary bought themselves a plane ticket.,45,secretary,C,Non-binary,Stereotypical,Female,Stereotypical They,,,,
+The friendly receptionist found himself the center of attention.,46,receptionist,C,Mismatch,Stereotypical,Female,Stereotypical Mismatch,,,,
+The popular babysitter found herself overcommitted on Fridays.,47,babysitter,C,Match,Stereotypical,Female,Stereotypical Match,,,,
+The socialite surrounded herself with friends.,48,socialite,C,Match,Stereotypical,Female,Stereotypical Match,,,,
+Brian's ability to laugh at themselves is remarkable.,49,Brian,C,Non-binary,Name,Male,Name They,,,,
+Daniel was mad at herself for messing up so badly.,50,Daniel,C,Mismatch,Name,Male,Name Mismatch,Was Daniel angry?,Y,F,
+Robert cursed themselves for forgetting the swimming goggles.,51,Robert,C,Non-binary,Name,Male,Name They,Was Robert forgetful?,Y,F,
+George prided herself on delivering good quality work.,52,George,C,Mismatch,Name,Male,Name Mismatch,,,,
+Matthew took a long time to regain himself after the injury.,53,Matthew,C,Match,Name,Male,Name Match,,,,
+John would like to treat himself to some sushi.,54,John,C,Match,Name,Male,Name Match,,,,
+William decided to entertain themselves on facebook.,55,William,C,Non-binary,Name,Male,Name They,,,,
+Edward blamed herself for the tragedy.,56,Edward,C,Mismatch,Name,Male,Name Mismatch,,,,
+Kenneth dried themselves after coming out of the pool.,57,Kenneth,C,Non-binary,Name,Male,Name They,,,,
+Mark found herself through meditation.,58,Mark,C,Mismatch,Name,Male,Name Mismatch,,,,
+Thomas smiled to himself upon hearing that song.,59,Thomas,C,Match,Name,Male,Name Match,Did Thomas hate the song?,Y,J,
+Charles dismissed himself from the group activity.,60,Charles,C,Match,Name,Male,Name Match,,,,
+Lisa is not very good at allowing themselves to make mistakes.,61,Lisa,C,Non-binary,Name,Female,Name They,Did Lisa tolerate mistake?,Y,J,
+Nancy gifted himself a new laptop for Christmas.,62,Nancy,C,Mismatch,Name,Female,Name Mismatch,Did Nancy buy a new phone?,Y,J,
+Carol used to sing herself to sleep.,63,Carol,C,Non-binary,Name,Female,Name They,,,,
+Elizabeth flung herself into a chair.,64,Elizabeth,C,Mismatch,Name,Female,Name Mismatch,,,,
+Mary worked herself to death for a promotion.,65,Mary,C,Match,Name,Female,Name Match,Was Mary a lazy worker?,Y,J,
+Betty really hated herself for giving in.,66,Betty,C,Match,Name,Female,Name Match,,,,
+Kimberly devoted themselves to helping others.,67,Kimberly,C,Non-binary,Name,Female,Name They,,,,
+Jennifer forced himself to stay awake.,68,Jennifer,C,Mismatch,Name,Female,Name Mismatch,,,,
+Dorothy introduced themselves to the new students.,69,Dorothy,C,Non-binary,Name,Female,Name They,,,,
+Linda did not give himself enough credit.,70,Linda,C,Mismatch,Name,Female,Name Mismatch,,,,
+Karen laughed herself silly at the jokes.,71,Karen,C,Match,Name,Female,Name Match,,,,
+Ruth's ability to keep herself going is inspiring.,72,Ruth,C,Match,Name,Female,Name Match,,,,
+You wash your hands with horse and water.,73,,A,Incongruent,,,Semantic Violation,,,,Y
+He spreads the warm bread with socks.,74,,A,Incongruent,,,Semantic Violation,Was the bread cold?,Y,J,Y
+The kind gardener gave the carrot to the desk.,75,,A,Incongruent,,,Semantic Violation,,,,Y
+The leopard is a very good napkin.,76,,A,Incongruent,,,Semantic Violation,,,,Y
+The Earth revovles around the trouble in a year.,77,,A,Incongruent,,,Semantic Violation,,,,Y
+The hungry computer ate an apple.,78,,A,Incongruent,,,Semantic Violation,,,,Y
+Kenneth really want to work 24/7.,79,,A,Incongruent,,,Number Violation Anaphor Y,Is Kenneth a workaholic?,Y,F,Y
+Mark and Laura was upset because their plan blew up.,80,,A,Incongruent,,,Number Violation Anaphor Y,,,,Y
+The students was stressed out about her exam.,81,,A,Incongruent,,,Number Violation Anaphor Y,,,,Y
+My parents was very concerned about my health.,82,,A,Incongruent,,,Number Violation Anaphor Y,,,,Y
+The young lady make comfort food for her children.,83,,A,Incongruent,,,Number Violation Anaphor Y,,,,Y
+The toddler have had his eyes on the chocolate for a while now.,84,,A,Incongruent,,,Number Violation Anaphor Y,Does the toddler want to play with toys?,Y,J,Y
+The children never lied to his parents until that evening.,85,,A,Incongruent,,,Number Violation Anaphor Y,,,,Y
+The employees bits their tongue and did not argue with their boss.,86,,A,Incongruent,,,Number Violation Anaphor Y,Did the employees argue with their boss?,Y,J,Y
+People shouldn't lose his head over trivial matters.,87,,A,Incongruent,,,Number Violation Anaphor Y,,,,Y
+Sudden noises can make almost anyone jump to their feet.,88,,A,Incongruent,,,Number Violation Anaphor Y,,,,Y
+Frank and Jennifer was clearly a match made in heaven.,89,,A,Incongruent,,,Number Violation Anaphor N,Were Frank and Jennifer compatible?,Y,F,Y
+Not everyone are good at playing devil's advocate.,90,,A,Incongruent,,,Number Violation Anaphor N,,,,Y
+The fashion designer believe that variety is the spice of life.,91,,A,Incongruent,,,Number Violation Anaphor N,,,,Y
+Sam were excited to finally be of the legal drinking age.,92,,A,Incongruent,,,Number Violation Anaphor N,,,,Y
+The teenage boy's drinking are getting a bit out of hand these days.,93,,A,Incongruent,,,Number Violation Anaphor N,Is the teenage boy a heavy drinker?,Y,F,Y
+The talkative manicurist clearly enjoy gossiping.,94,,A,Incongruent,,,Number Violation Anaphor N,,,,Y
+Every guy in that philosophy course were an atheist.,95,,A,Incongruent,,,Number Violation Anaphor N,,,,Y
+None of the women in that company was interns.,96,,A,Incongruent,,,Number Violation Anaphor N,,,,Y
+Gregory and Lisa rocked the final presentation in public health.,97,,A,Congruent,,,Name Anaphor N,,,,Y
+William decided to ask Mark out.,98,,A,Congruent,,,Name Anaphor N,Did Mark ask William out?,Y,J,Y
+Shirley thought calculus was a piece of cake.,99,,A,Congruent,,,Name Anaphor N,Did Shirley think calculus was hard?,Y,J,Y
+Sharon and Thomas published a book together.,100,,A,Congruent,,,Name Anaphor N,,,,Y
+The misogynistic employer did not have an ounce of decency.,101,,A,Congruent,,,Name Anaphor N,,,,Y
+The seasoned lawyer makes really good arguments.,102,,A,Congruent,,,Name Anaphor N,,,,Y
+The narcissitic comedian is not very funny.,103,,A,Congruent,,,Name Anaphor N,,,,Y
+The host on that talk show makes bad jokes.,104,,A,Congruent,,,Name Anaphor N,,,,Y
+The busy florist got many orders for valentine's day.,105,,A,Congruent,,,Name Anaphor N,,,,Y
+The computer science professor is extremely awkward.,106,,A,Congruent,,,Name Anaphor N,,,,Y
+The tall clown scared all the children.,107,,A,Congruent,,,Name Anaphor N,,,,Y
+The philosophy professor said that free will did not exist.,108,,A,Congruent,,,Name Anaphor N,Did the professor believe in free will?,Y,J,Y
+No one thought that the class was a waste of time.,109,,A,Congruent,,,Name Anaphor N,,,,Y
+The customers were happy with the service.,110,,A,Congruent,,,Name Anaphor N,Were the customers satisfied?,Y,F,Y
+Everyone made funny faces in the class photo.,111,,A,Congruent,,,Name Anaphor N,,,,Y
+I saw someone who looked like Johnny Depp.,112,,A,Congruent,,,Name Anaphor N,,,,Y
+No one thought that the class was a waste of time.,113,,A,Congruent,,,Name Anaphor N,,,,Y
+It is easy for one to say hurtful things.,114,,A,Congruent,,,Name Anaphor N,,,,Y
+Someone has been stealing all the food.,115,,A,Congruent,,,Name Anaphor N,,,,Y
+No one wanted to work with that supervisor.,116,,A,Congruent,,,Name Anaphor N,Was the supervisor likable?,Y,J,Y
+Jeffrey ate everything from his plate.,117,,A,Congruent,,,Name Anaphor Y,,,,Y
+Paul sank his teeth into the juicy steak.,118,,A,Congruent,,,Name Anaphor Y,,,,Y
+Anna cried her eyes out when she broke up.,119,,A,Congruent,,,Name Anaphor Y,Was Anna sad about the breakup?,Y,F,Y
+Nancy was born with a silver spoon in her mouth.,120,,A,Congruent,,,Name Anaphor Y,,,,Y
+The dancer performed to the best of her ability.,121,,A,Congruent,,,Name Anaphor Y,,,,Y
+The activists stood their ground and refused to compromise.,122,,A,Congruent,,,Name Anaphor Y,,,,Y
+The talented filmmaker found it difficult to swallow his pride.,123,,A,Congruent,,,Name Anaphor Y,,,,Y
+The convicted murderer lost his temper.,124,,A,Congruent,,,Name Anaphor Y,,,,Y
+The acrobat got his act together for the show.,125,,A,Congruent,,,Name Anaphor Y,,,,Y
+The arrogant tourist claimed to know the city like the back of her hand.,126,,A,Congruent,,,Name Anaphor Y,,,,Y
+The brave survivor believed that the trauma opened her eyes.,127,,A,Congruent,,,Name Anaphor Y,,,,Y
+The teenage girl was fixed in her own ways.,128,,A,Congruent,,,Name Anaphor Y,,,,Y
+James and Shirley find that cartoons crack them up.,129,,A,Congruent,,,Name Anaphor Y,,,,Y
+Daniel and Pamela could not get the meeting off their mind.,130,,A,Congruent,,,Name Anaphor Y,Were Daniel and Pamela thinking about the meeting?,Y,F,Y
+The anxious applicant can't wait to hear back from the company.,131,,A,Congruent,,,Name Anaphor Y,,,,Y
+You can't always have your heart in the right place.,132,,A,Congruent,,,Name Anaphor Y,,,,Y
+Everyone in the class was upto his neck in work.,133,,A,Congruent,,,Name Anaphor Y,,,,Y
+Anyone can bounce back to her feet after difficult times.,134,,A,Congruent,,,Name Anaphor Y,,,,Y
+Almost no one can find their feet without stumbling first.,135,,A,Congruent,,,Name Anaphor Y,,,,Y
+My neighbours recently tried their hand at baking.,136,,A,Congruent,,,Name Anaphor Y,,,,Y
+The new interns tried hard to understand what was happening.,137,,A,Congruent,,,Name Anaphor Y,,,,Y
+The athletes needed some time to lick their wounds.,138,,A,Congruent,,,Name Anaphor Y,,,,Y
+The facilitator asked everyone to find themselves a seat.,139,,A,Congruent,,,Name Anaphor Y,,,,Y
+People shouldn't hate themselves for their mistakes.,140,,A,Congruent,,,Name Anaphor Y,,,,Y
+No one wants to call himself a liar.,141,,A,Congruent,,,Name Anaphor Y,,,,Y
+Anyone can convince herself that she is right.,142,,A,Congruent,,,Name Anaphor Y,,,,Y
+One can lose herself to the one she loves.,143,,A,Congruent,,,Name Anaphor Y,,,,Y
+It is important to take care of ourselves.,144,,A,Congruent,,,Name Anaphor Y,Is self-care important?,Y,F,Y
+You wash your hands with horse and water.,73,,B,Incongruent,,,Semantic Violation,,,,Y
+He spreads the warm bread with socks.,74,,B,Incongruent,,,Semantic Violation,Was the bread cold?,Y,J,Y
+The kind gardener gave the carrot to the desk.,75,,B,Incongruent,,,Semantic Violation,,,,Y
+The leopard is a very good napkin.,76,,B,Incongruent,,,Semantic Violation,,,,Y
+The Earth revovles around the trouble in a year.,77,,B,Incongruent,,,Semantic Violation,,,,Y
+The hungry computer ate an apple.,78,,B,Incongruent,,,Semantic Violation,,,,Y
+Kenneth really want to work 24/7.,79,,B,Incongruent,,,Number Violation Anaphor Y,Is Kenneth a workaholic?,Y,F,Y
+Mark and Laura was upset because their plan blew up.,80,,B,Incongruent,,,Number Violation Anaphor Y,,,,Y
+The students was stressed out about her exam.,81,,B,Incongruent,,,Number Violation Anaphor Y,,,,Y
+My parents was very concerned about my health.,82,,B,Incongruent,,,Number Violation Anaphor Y,,,,Y
+The young lady make comfort food for her children.,83,,B,Incongruent,,,Number Violation Anaphor Y,,,,Y
+The toddler have had his eyes on the chocolate for a while now.,84,,B,Incongruent,,,Number Violation Anaphor Y,Does the toddler want to play with toys?,Y,J,Y
+The children never lied to his parents until that evening.,85,,B,Incongruent,,,Number Violation Anaphor Y,,,,Y
+The employees bits their tongue and did not argue with their boss.,86,,B,Incongruent,,,Number Violation Anaphor Y,Did the employees argue with their boss?,Y,J,Y
+People shouldn't lose his head over trivial matters.,87,,B,Incongruent,,,Number Violation Anaphor Y,,,,Y
+Sudden noises can make almost anyone jump to their feet.,88,,B,Incongruent,,,Number Violation Anaphor Y,,,,Y
+Frank and Jennifer was clearly a match made in heaven.,89,,B,Incongruent,,,Number Violation Anaphor N,Were Frank and Jennifer compatible?,Y,F,Y
+Not everyone are good at playing devil's advocate.,90,,B,Incongruent,,,Number Violation Anaphor N,,,,Y
+The fashion designer believe that variety is the spice of life.,91,,B,Incongruent,,,Number Violation Anaphor N,,,,Y
+Sam were excited to finally be of the legal drinking age.,92,,B,Incongruent,,,Number Violation Anaphor N,,,,Y
+The teenage boy's drinking are getting a bit out of hand these days.,93,,B,Incongruent,,,Number Violation Anaphor N,Is the teenage boy a heavy drinker?,Y,F,Y
+The talkative manicurist clearly enjoy gossiping.,94,,B,Incongruent,,,Number Violation Anaphor N,,,,Y
+Every guy in that philosophy course were an atheist.,95,,B,Incongruent,,,Number Violation Anaphor N,,,,Y
+None of the women in that company was interns.,96,,B,Incongruent,,,Number Violation Anaphor N,,,,Y
+Gregory and Lisa rocked the final presentation in public health.,97,,B,Congruent,,,Name Anaphor N,,,,Y
+William decided to ask Mark out.,98,,B,Congruent,,,Name Anaphor N,Did Mark ask William out?,Y,J,Y
+Shirley thought calculus was a piece of cake.,99,,B,Congruent,,,Name Anaphor N,Did Shirley think calculus was hard?,Y,J,Y
+Sharon and Thomas published a book together.,100,,B,Congruent,,,Name Anaphor N,,,,Y
+The misogynistic employer did not have an ounce of decency.,101,,B,Congruent,,,Name Anaphor N,,,,Y
+The seasoned lawyer makes really good arguments.,102,,B,Congruent,,,Name Anaphor N,,,,Y
+The narcissitic comedian is not very funny.,103,,B,Congruent,,,Name Anaphor N,,,,Y
+The host on that talk show makes bad jokes.,104,,B,Congruent,,,Name Anaphor N,,,,Y
+The busy florist got many orders for valentine's day.,105,,B,Congruent,,,Name Anaphor N,,,,Y
+The computer science professor is extremely awkward.,106,,B,Congruent,,,Name Anaphor N,,,,Y
+The tall clown scared all the children.,107,,B,Congruent,,,Name Anaphor N,,,,Y
+The philosophy professor said that free will did not exist.,108,,B,Congruent,,,Name Anaphor N,Did the professor believe in free will?,Y,J,Y
+No one thought that the class was a waste of time.,109,,B,Congruent,,,Name Anaphor N,,,,Y
+The customers were happy with the service.,110,,B,Congruent,,,Name Anaphor N,Were the customers satisfied?,Y,F,Y
+Everyone made funny faces in the class photo.,111,,B,Congruent,,,Name Anaphor N,,,,Y
+I saw someone who looked like Johnny Depp.,112,,B,Congruent,,,Name Anaphor N,,,,Y
+No one thought that the class was a waste of time.,113,,B,Congruent,,,Name Anaphor N,,,,Y
+It is easy for one to say hurtful things.,114,,B,Congruent,,,Name Anaphor N,,,,Y
+Someone has been stealing all the food.,115,,B,Congruent,,,Name Anaphor N,,,,Y
+No one wanted to work with that supervisor.,116,,B,Congruent,,,Name Anaphor N,Was the supervisor likable?,Y,J,Y
+Jeffrey ate everything from his plate.,117,,B,Congruent,,,Name Anaphor Y,,,,Y
+Paul sank his teeth into the juicy steak.,118,,B,Congruent,,,Name Anaphor Y,,,,Y
+Anna cried her eyes out when she broke up.,119,,B,Congruent,,,Name Anaphor Y,Was Anna sad about the breakup?,Y,F,Y
+Nancy was born with a silver spoon in her mouth.,120,,B,Congruent,,,Name Anaphor Y,,,,Y
+The dancer performed to the best of her ability.,121,,B,Congruent,,,Name Anaphor Y,,,,Y
+The activists stood their ground and refused to compromise.,122,,B,Congruent,,,Name Anaphor Y,,,,Y
+The talented filmmaker found it difficult to swallow his pride.,123,,B,Congruent,,,Name Anaphor Y,,,,Y
+The convicted murderer lost his temper.,124,,B,Congruent,,,Name Anaphor Y,,,,Y
+The acrobat got his act together for the show.,125,,B,Congruent,,,Name Anaphor Y,,,,Y
+The arrogant tourist claimed to know the city like the back of her hand.,126,,B,Congruent,,,Name Anaphor Y,,,,Y
+The brave survivor believed that the trauma opened her eyes.,127,,B,Congruent,,,Name Anaphor Y,,,,Y
+The teenage girl was fixed in her own ways.,128,,B,Congruent,,,Name Anaphor Y,,,,Y
+James and Shirley find that cartoons crack them up.,129,,B,Congruent,,,Name Anaphor Y,,,,Y
+Daniel and Pamela could not get the meeting off their mind.,130,,B,Congruent,,,Name Anaphor Y,Were Daniel and Pamela thinking about the meeting?,Y,F,Y
+The anxious applicant can't wait to hear back from the company.,131,,B,Congruent,,,Name Anaphor Y,,,,Y
+You can't always have your heart in the right place.,132,,B,Congruent,,,Name Anaphor Y,,,,Y
+Everyone in the class was upto his neck in work.,133,,B,Congruent,,,Name Anaphor Y,,,,Y
+Anyone can bounce back to her feet after difficult times.,134,,B,Congruent,,,Name Anaphor Y,,,,Y
+Almost no one can find their feet without stumbling first.,135,,B,Congruent,,,Name Anaphor Y,,,,Y
+My neighbours recently tried their hand at baking.,136,,B,Congruent,,,Name Anaphor Y,,,,Y
+The new interns tried hard to understand what was happening.,137,,B,Congruent,,,Name Anaphor Y,,,,Y
+The athletes needed some time to lick their wounds.,138,,B,Congruent,,,Name Anaphor Y,,,,Y
+The facilitator asked everyone to find themselves a seat.,139,,B,Congruent,,,Name Anaphor Y,,,,Y
+People shouldn't hate themselves for their mistakes.,140,,B,Congruent,,,Name Anaphor Y,,,,Y
+No one wants to call himself a liar.,141,,B,Congruent,,,Name Anaphor Y,,,,Y
+Anyone can convince herself that she is right.,142,,B,Congruent,,,Name Anaphor Y,,,,Y
+One can lose herself to the one she loves.,143,,B,Congruent,,,Name Anaphor Y,,,,Y
+It is important to take care of ourselves.,144,,B,Congruent,,,Name Anaphor Y,Is self-care important?,Y,F,Y
+You wash your hands with horse and water.,73,,C,Incongruent,,,Semantic Violation,,,,Y
+He spreads the warm bread with socks.,74,,C,Incongruent,,,Semantic Violation,Was the bread cold?,Y,J,Y
+The kind gardener gave the carrot to the desk.,75,,C,Incongruent,,,Semantic Violation,,,,Y
+The leopard is a very good napkin.,76,,C,Incongruent,,,Semantic Violation,,,,Y
+The Earth revovles around the trouble in a year.,77,,C,Incongruent,,,Semantic Violation,,,,Y
+The hungry computer ate an apple.,78,,C,Incongruent,,,Semantic Violation,,,,Y
+Kenneth really want to work 24/7.,79,,C,Incongruent,,,Number Violation Anaphor Y,Is Kenneth a workaholic?,Y,F,Y
+Mark and Laura was upset because their plan blew up.,80,,C,Incongruent,,,Number Violation Anaphor Y,,,,Y
+The students was stressed out about her exam.,81,,C,Incongruent,,,Number Violation Anaphor Y,,,,Y
+My parents was very concerned about my health.,82,,C,Incongruent,,,Number Violation Anaphor Y,,,,Y
+The young lady make comfort food for her children.,83,,C,Incongruent,,,Number Violation Anaphor Y,,,,Y
+The toddler have had his eyes on the chocolate for a while now.,84,,C,Incongruent,,,Number Violation Anaphor Y,Does the toddler want to play with toys?,Y,J,Y
+The children never lied to his parents until that evening.,85,,C,Incongruent,,,Number Violation Anaphor Y,,,,Y
+The employees bits their tongue and did not argue with their boss.,86,,C,Incongruent,,,Number Violation Anaphor Y,Did the employees argue with their boss?,Y,J,Y
+People shouldn't lose his head over trivial matters.,87,,C,Incongruent,,,Number Violation Anaphor Y,,,,Y
+Sudden noises can make almost anyone jump to their feet.,88,,C,Incongruent,,,Number Violation Anaphor Y,,,,Y
+Frank and Jennifer was clearly a match made in heaven.,89,,C,Incongruent,,,Number Violation Anaphor N,Were Frank and Jennifer compatible?,Y,F,Y
+Not everyone are good at playing devil's advocate.,90,,C,Incongruent,,,Number Violation Anaphor N,,,,Y
+The fashion designer believe that variety is the spice of life.,91,,C,Incongruent,,,Number Violation Anaphor N,,,,Y
+Sam were excited to finally be of the legal drinking age.,92,,C,Incongruent,,,Number Violation Anaphor N,,,,Y
+The teenage boy's drinking are getting a bit out of hand these days.,93,,C,Incongruent,,,Number Violation Anaphor N,Is the teenage boy a heavy drinker?,Y,F,Y
+The talkative manicurist clearly enjoy gossiping.,94,,C,Incongruent,,,Number Violation Anaphor N,,,,Y
+Every guy in that philosophy course were an atheist.,95,,C,Incongruent,,,Number Violation Anaphor N,,,,Y
+None of the women in that company was interns.,96,,C,Incongruent,,,Number Violation Anaphor N,,,,Y
+Gregory and Lisa rocked the final presentation in public health.,97,,C,Congruent,,,Name Anaphor N,,,,Y
+William decided to ask Mark out.,98,,C,Congruent,,,Name Anaphor N,Did Mark ask William out?,Y,J,Y
+Shirley thought calculus was a piece of cake.,99,,C,Congruent,,,Name Anaphor N,Did Shirley think calculus was hard?,Y,J,Y
+Sharon and Thomas published a book together.,100,,C,Congruent,,,Name Anaphor N,,,,Y
+The misogynistic employer did not have an ounce of decency.,101,,C,Congruent,,,Name Anaphor N,,,,Y
+The seasoned lawyer makes really good arguments.,102,,C,Congruent,,,Name Anaphor N,,,,Y
+The narcissitic comedian is not very funny.,103,,C,Congruent,,,Name Anaphor N,,,,Y
+The host on that talk show makes bad jokes.,104,,C,Congruent,,,Name Anaphor N,,,,Y
+The busy florist got many orders for valentine's day.,105,,C,Congruent,,,Name Anaphor N,,,,Y
+The computer science professor is extremely awkward.,106,,C,Congruent,,,Name Anaphor N,,,,Y
+The tall clown scared all the children.,107,,C,Congruent,,,Name Anaphor N,,,,Y
+The philosophy professor said that free will did not exist.,108,,C,Congruent,,,Name Anaphor N,Did the professor believe in free will?,Y,J,Y
+No one thought that the class was a waste of time.,109,,C,Congruent,,,Name Anaphor N,,,,Y
+The customers were happy with the service.,110,,C,Congruent,,,Name Anaphor N,Were the customers satisfied?,Y,F,Y
+Everyone made funny faces in the class photo.,111,,C,Congruent,,,Name Anaphor N,,,,Y
+I saw someone who looked like Johnny Depp.,112,,C,Congruent,,,Name Anaphor N,,,,Y
+No one thought that the class was a waste of time.,113,,C,Congruent,,,Name Anaphor N,,,,Y
+It is easy for one to say hurtful things.,114,,C,Congruent,,,Name Anaphor N,,,,Y
+Someone has been stealing all the food.,115,,C,Congruent,,,Name Anaphor N,,,,Y
+No one wanted to work with that supervisor.,116,,C,Congruent,,,Name Anaphor N,Was the supervisor likable?,Y,J,Y
+Jeffrey ate everything from his plate.,117,,C,Congruent,,,Name Anaphor Y,,,,Y
+Paul sank his teeth into the juicy steak.,118,,C,Congruent,,,Name Anaphor Y,,,,Y
+Anna cried her eyes out when she broke up.,119,,C,Congruent,,,Name Anaphor Y,Was Anna sad about the breakup?,Y,F,Y
+Nancy was born with a silver spoon in her mouth.,120,,C,Congruent,,,Name Anaphor Y,,,,Y
+The dancer performed to the best of her ability.,121,,C,Congruent,,,Name Anaphor Y,,,,Y
+The activists stood their ground and refused to compromise.,122,,C,Congruent,,,Name Anaphor Y,,,,Y
+The talented filmmaker found it difficult to swallow his pride.,123,,C,Congruent,,,Name Anaphor Y,,,,Y
+The convicted murderer lost his temper.,124,,C,Congruent,,,Name Anaphor Y,,,,Y
+The acrobat got his act together for the show.,125,,C,Congruent,,,Name Anaphor Y,,,,Y
+The arrogant tourist claimed to know the city like the back of her hand.,126,,C,Congruent,,,Name Anaphor Y,,,,Y
+The brave survivor believed that the trauma opened her eyes.,127,,C,Congruent,,,Name Anaphor Y,,,,Y
+The teenage girl was fixed in her own ways.,128,,C,Congruent,,,Name Anaphor Y,,,,Y
+James and Shirley find that cartoons crack them up.,129,,C,Congruent,,,Name Anaphor Y,,,,Y
+Daniel and Pamela could not get the meeting off their mind.,130,,C,Congruent,,,Name Anaphor Y,Were Daniel and Pamela thinking about the meeting?,Y,F,Y
+The anxious applicant can't wait to hear back from the company.,131,,C,Congruent,,,Name Anaphor Y,,,,Y
+You can't always have your heart in the right place.,132,,C,Congruent,,,Name Anaphor Y,,,,Y
+Everyone in the class was upto his neck in work.,133,,C,Congruent,,,Name Anaphor Y,,,,Y
+Anyone can bounce back to her feet after difficult times.,134,,C,Congruent,,,Name Anaphor Y,,,,Y
+Almost no one can find their feet without stumbling first.,135,,C,Congruent,,,Name Anaphor Y,,,,Y
+My neighbours recently tried their hand at baking.,136,,C,Congruent,,,Name Anaphor Y,,,,Y
+The new interns tried hard to understand what was happening.,137,,C,Congruent,,,Name Anaphor Y,,,,Y
+The athletes needed some time to lick their wounds.,138,,C,Congruent,,,Name Anaphor Y,,,,Y
+The facilitator asked everyone to find themselves a seat.,139,,C,Congruent,,,Name Anaphor Y,,,,Y
+People shouldn't hate themselves for their mistakes.,140,,C,Congruent,,,Name Anaphor Y,,,,Y
+No one wants to call himself a liar.,141,,C,Congruent,,,Name Anaphor Y,,,,Y
+Anyone can convince herself that she is right.,142,,C,Congruent,,,Name Anaphor Y,,,,Y
+One can lose herself to the one she loves.,143,,C,Congruent,,,Name Anaphor Y,,,,Y
+It is important to take care of ourselves.,144,,C,Congruent,,,Name Anaphor Y,Is self-care important?,Y,F,Y
